@@ -11,51 +11,14 @@
     categoryName: 'Fastfood',
     parentID: 0,
     entries: [
-      { 
-        id: 12,
-        categoryName: 'Hotdog',
-        parentID: 2,
-        entries: [],
-        isExpand: false
-       }
-    ],
-     isExpand: false
-    },
-    {
-      id: 3,
-      categoryName: 'Vietnam food',
-      parentID: 0,
-      entries: [
         { 
-          id: 27,
-          categoryName: 'Banh xeo',
-          parentID: 3,
+          id: 12,
+          categoryName: 'Hotdog',
+          parentID: 2,
           entries: [],
           isExpand: false
-         },
-         {
-          id: 28,
-          categoryName: 'Pho',
-          parentID: 3,
-          entries: [
-             {
-               id: 42,
-               categoryName: 'Pho tai',
-               parentID: 28,
-               entries: [],
-               isExpand: false
-             },
-             {
-               id: 43,
-               categoryName: 'Pho tai-nam-gau-gan',
-               parentID: 28,
-               entries: [],
-               isExpand: false
-             }
-          ],
-          isExpand: false
          }
-       ],
-      isExpand: false
-    }
+      ],
+     isExpand: false
+    } 
 ]
