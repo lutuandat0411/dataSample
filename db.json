@@ -1,19 +1,19 @@
 [
   { 
     id: 1,
-    categoryName: 'Streetfood'
+    categoryName: 'Streetfood',
     parentID: 0,
     entries: [],
     isExpand: false
    },
    {
     id: 2,
-    categoryName: 'Fastfood'
+    categoryName: 'Fastfood',
     parentID: 0,
     entries: [
       { 
         id: 12,
-        categoryName: 'Hotdog'
+        categoryName: 'Hotdog',
         parentID: 2,
         entries: [],
         isExpand: false
@@ -23,31 +23,31 @@
     },
     {
       id: 3,
-      categoryName: 'Vietnam food'
+      categoryName: 'Vietnam food',
       parentID: 0,
       entries: [
         { 
           id: 27,
-          categoryName: 'Banh xeo'
+          categoryName: 'Banh xeo',
           parentID: 3,
           entries: [],
           isExpand: false
          },
          {
           id: 28,
-          categoryName: 'Pho'
+          categoryName: 'Pho',
           parentID: 3,
           entries: [
              {
                id: 42,
-               categoryName: 'Pho tai'
+               categoryName: 'Pho tai',
                parentID: 28,
                entries: [],
                isExpand: false
              },
              {
                id: 43,
-               categoryName: 'Pho tai-nam-gau-gan'
+               categoryName: 'Pho tai-nam-gau-gan',
                parentID: 28,
                entries: [],
                isExpand: false
