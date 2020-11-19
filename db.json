@@ -1,24 +1,23 @@
-[
-  { 
-    id: 1,
-    categoryName: 'Streetfood',
-    parentID: 0,
-    entries: [],
-    isExpand: false
+":[
+         
+      ],
+      "isExpand":false
    },
    {
-    id: 2,
-    categoryName: 'Fastfood',
-    parentID: 0,
-    entries: [
-        { 
-          id: 12,
-          categoryName: 'Hotdog',
-          parentID: 2,
-          entries: [],
-          isExpand: false
+      "id":2,
+      "categoryName":"Fastfood",
+      "parentID":0,
+      "entries":[
+         {
+            "id":12,
+            "categoryName":"Hotdog",
+            "parentID":2,
+            "entries":[
+               
+            ],
+            "isExpand":false
          }
       ],
-     isExpand: false
-    } 
+      "isExpand":false
+   }
 ]
