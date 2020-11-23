@@ -3,7 +3,7 @@
    {
       "id":1,
       "categoryName":"Streetfood",
-      "parentID":0,
+      "parentId":0,
       "children":[
          
       ]
@@ -11,7 +11,7 @@
    {
       "id":2,
       "categoryName":"Fastfood",
-      "parentID":0,
+      "parentId":0,
       "children":[
          
       ]
@@ -19,7 +19,7 @@
       {
             "id":12,
             "categoryName":"Hotdog",
-            "parentID":2,
+            "parentId":2,
             "children":[
                
             ]
@@ -27,7 +27,7 @@
       {
             "id":27,
             "categoryName":"Banh xeo",
-            "parentID":3,
+            "parentId":3,
             "children":[
                
             ]
@@ -36,7 +36,7 @@
       {
                   "id":42,
                   "categoryName":"Pho tai",
-                  "parentID":28,
+                  "parentId":28,
                   "children":[
                      
                   ]
@@ -44,7 +44,7 @@
                {
                   "id":43,
                   "categoryName":"Pho tai-nam-gau-gan",
-                  "parentID":28,
+                  "parentId":28,
                   "children":[
                      
                   ]
@@ -52,7 +52,7 @@
    {
       "id":3,
       "categoryName":"Vietnam food",
-      "parentID":0,
+      "parentId":0,
       "children":[
          
          
@@ -62,7 +62,7 @@
       {
             "id":28,
             "categoryName":"Pho",
-            "parentID":3,
+            "parentId":3,
             "children":[
                
             ]
