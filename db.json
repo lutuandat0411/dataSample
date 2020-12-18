@@ -1,80 +1,51 @@
 {
-   "data": [
-   {
-      "id":1,
-      "categoryName":"Streetfood",
-      "parentId":0,
-      "children":[
-         
-      ]
-   },
-   {
-      "id":2,
-      "categoryName":"Fastfood",
-      "parentId":0,
-      "children":[
-         
-      ]
-   },
+   "ProductType": [
       {
-            "id":12,
-            "categoryName":"Hotdog",
-            "parentId":2,
-            "children":[
-               
-            ]
-         },
+         "id": 1,
+         "name": "Cakes"
+      },
       {
-            "id":27,
-            "categoryName":"Banh xeo",
-            "parentId":3,
-            "children":[
-               
-            ]
-
-         },
+         "id": 2,
+         "name": "Bread & Pastry"
+      },
       {
-                  "id":42,
-                  "categoryName":"Pho tai",
-                  "parentId":28,
-                  "children":[
-                     
-                  ]
-               },
-               {
-                  "id":43,
-                  "categoryName":"Pho tai-nam-gau-gan",
-                  "parentId":28,
-                  "children":[
-                     
-                  ]
-               },
-   {
-      "id":3,
-      "categoryName":"Vietnam food",
-      "parentId":0,
-      "children":[
-         
-         
-      ]
-
-   },
+         "id": 3,
+         "name": "Light Meals"
+      },
       {
-            "id":28,
-            "categoryName":"Pho",
-            "parentId":3,
-            "children":[
-               
-            ]
-         },
+         "id": 4,
+         "name": "Beverages"
+      },
       {
-            "id":92,
-            "categoryName":"Banh xeo mien ",
-            "parentId":27,
-            "children":[
-               
-            ]
-         }
-]
+         "id": 5,
+         "name": "Other"
+      }
+   ],
+   "Tax": [
+      {
+         "id": 1,
+         "name": "VAT - 20%",
+         "value": 20
+      },
+      {
+         "id": 2,
+         "name": "VAT - 10%",
+         "value": 10
+      },
+      {
+         "id": 3,
+         "name": "VAT - 5%",
+         "value": 5
+      }
+   ],
+   "Produced By": [
+      {
+         "id": 1,
+         "name": "ABC Bakery"
+      },
+      {
+         "id": 2,
+         "name": "DEF Bakery"
+      }
+   ]
 }
-
