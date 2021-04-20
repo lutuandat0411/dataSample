@@ -1,51 +1,49 @@
 {
-   "ProductType": [
+  "data": [
       {
-         "id": "1090ecda-ea4e-4732-bae5-1b7489d4b15d",
-         "name": "Cakes"
+        "tid": 1,
+        "turl": "https://images.pexels.com/photos/3690511/pexels-photo-3690511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 0
       },
       {
-         "id": "5fa55344-530b-42ff-afcc-85c8bcd5f6b7",
-         "name": "Bread & Pastry"
+        "tid": 2,
+        "turl": "https://images.pexels.com/photos/4577819/pexels-photo-4577819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 0
       },
       {
-         "id": "71eb2c6a-2910-4d6f-a74e-2e3482a201aa",
-         "name": "Light Meals"
+        "tid": 3,
+        "turl": "https://images.pexels.com/photos/146083/pexels-photo-146083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 0
       },
       {
-         "id": "ea8227d0-736a-4033-a050-e6f1b60641fc",
-         "name": "Beverages"
+        "tid": 4,
+        "turl": "https://images.pexels.com/photos/4666751/pexels-photo-4666751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 0
       },
       {
-         "id": "99b90097-6d7d-49d3-b03d-5cb9348c7e9b",
-         "name": "Other"
+        "tid": 5,
+        "turl": "https://images.pexels.com/photos/41315/africa-african-animal-cat-41315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 0
+      },
+      {
+        "tid": 6,
+        "turl": "https://images.pexels.com/photos/4032590/pexels-photo-4032590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 1
+      },
+      {
+        "tid": 7,
+        "turl": "https://images.pexels.com/photos/162520/farmer-man-shepherd-dog-162520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 1
+      },
+      {
+        "tid": 8,
+        "turl": "https://images.pexels.com/photos/3396657/pexels-photo-3396657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 1
+      },
+      {
+        "tid": 9,
+        "turl": "https://images.pexels.com/photos/2877854/pexels-photo-2877854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
+        "ttype": 1
       }
-   ],
-   "Tax": [
-      {
-         "id": "061e7941-01ed-4f2b-b9b6-13e06d9433ae",
-         "name": "VAT - 20%",
-         "value": 20
-      },
-      {
-         "id": "690259c1-39cc-4aa0-bfa2-a1e0ffbda897",
-         "name": "VAT - 10%",
-         "value": 10
-      },
-      {
-         "id": "69148f9f-5277-46f5-bd90-3dd54b0adc70",
-         "name": "VAT - 5%",
-         "value": 5
-      }
-   ],
-   "ProducedBy": [
-      {
-         "id": "3a1ffbcb-4e50-4663-a45a-b9e3d1889d39",
-         "name": "ABC Bakery"
-      },
-      {
-         "id": "564dca6f-2245-4206-afda-5a2800e82866",
-         "name": "DEF Bakery"
-      }
-   ]
+    ]
 }
