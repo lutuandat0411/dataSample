@@ -1,49 +1,60 @@
 {
   "data": [
-      {
-        "tid": 1,
-        "turl": "https://images.pexels.com/photos/3690511/pexels-photo-3690511.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 0
-      },
-      {
-        "tid": 2,
-        "turl": "https://images.pexels.com/photos/4577819/pexels-photo-4577819.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 0
-      },
-      {
-        "tid": 3,
-        "turl": "https://images.pexels.com/photos/146083/pexels-photo-146083.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 0
-      },
-      {
-        "tid": 4,
-        "turl": "https://images.pexels.com/photos/4666751/pexels-photo-4666751.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 0
-      },
-      {
-        "tid": 5,
-        "turl": "https://images.pexels.com/photos/41315/africa-african-animal-cat-41315.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 0
-      },
-      {
-        "tid": 6,
-        "turl": "https://images.pexels.com/photos/4032590/pexels-photo-4032590.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 1
-      },
-      {
-        "tid": 7,
-        "turl": "https://images.pexels.com/photos/162520/farmer-man-shepherd-dog-162520.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 1
-      },
-      {
-        "tid": 8,
-        "turl": "https://images.pexels.com/photos/3396657/pexels-photo-3396657.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 1
-      },
-      {
-        "tid": 9,
-        "turl": "https://images.pexels.com/photos/2877854/pexels-photo-2877854.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940",
-        "ttype": 1
-      }
-    ]
+  {
+    "id": 12,
+    "name": "Hop Dong",
+    "code": "HD",
+    "description": "Hop dong dung de...",
+    "createdById": 33,
+    "createdBy": "Se^'p",
+    "createdOn": "2022-04-07T10:37:25.1571825",
+    "updatedById": 33,
+    "updatedOn": "2022-04-08T07:10:52.3096559",
+    "updatedBy": "Se^'p",
+    "startDate": "2022-04-07T10:37:25.1571825",
+    "endDate": null
+  },
+  {
+    "id": 13,
+    "name": "Tang Luong",
+    "code": "TL",
+    "description": "Tang luong xong roi...",
+    "createdById": 33,
+    "createdBy": "Se^'p",
+    "createdOn": "2022-04-07T10:37:25.1571825",
+    "updatedById": 33,
+    "updatedOn": "2022-04-08T07:10:52.3096559",
+    "updatedBy": "Se^'p",
+    "startDate": "2022-04-07T10:37:25.1571825",
+    "endDate": null
+  },
+  {
+    "id": 14,
+    "name": "Giam Gio` Lam",
+    "code": "GGL",
+    "description": "Giam duoc gio lam thi...",
+    "createdById": 33,
+    "createdBy": "Se^'p",
+    "createdOn": "2022-04-07T10:37:25.1571825",
+    "updatedById": 33,
+    "updatedOn": "2022-04-08T07:10:52.3096559",
+    "updatedBy": "Se^'p",
+    "startDate": "2022-04-07T10:37:25.1571825",
+    "endDate": null
+  },
+  {
+    "id": 15,
+    "name": "Duoi Viec",
+    "code": "DV",
+    "description": "Duoi viec thoi",
+    "createdById": 33,
+    "createdBy": "Se^'p",
+    "createdOn": "2022-04-07T10:37:25.1571825",
+    "updatedById": 33,
+    "updatedOn": "2022-04-08T07:10:52.3096559",
+    "updatedBy": "Se^'p",
+    "startDate": "2022-04-07T10:37:25.1571825",
+    "endDate": null
+  }
+]
 }
