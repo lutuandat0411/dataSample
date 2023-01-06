@@ -1,61 +1,60 @@
 {
   "data": [
-  {
-    "id": 12,
-    "name": "Hop Dong",
-    "code": "HD",
-    "description": "Hop dong dung de...",
-    "createdById": 33,
-    "createdBy": "Se^'p",
-    "createdOn": "2022-04-07T10:37:25.1571825",
-    "updatedById": 33,
-    "updatedOn": "2022-04-08T07:10:52.3096559",
-    "updatedBy": "Se^'p",
-    "startDate": "2022-04-07T10:37:25.1571825",
-    "endDate": null
-  },
-  {
-    "id": 13,
-    "name": "Tang Luong",
-    "code": "TL",
-    "description": "Tang luong xong roi...",
-    "createdById": 33,
-    "createdBy": "Se^'p",
-    "createdOn": "2022-04-07T10:37:25.1571825",
-    "updatedById": 33,
-    "updatedOn": "2022-04-08T07:10:52.3096559",
-    "updatedBy": "Se^'p",
-    "startDate": "2022-04-07T10:37:25.1571825",
-    "endDate": null
-  },
-  {
-    "id": 14,
-    "name": "Giam Gio` Lam",
-    "code": "GGL",
-    "description": "Giam duoc gio lam thi...",
-    "createdById": 33,
-    "createdBy": "Se^'p",
-    "createdOn": "2022-04-07T10:37:25.1571825",
-    "updatedById": 33,
-    "updatedOn": "2022-04-08T07:10:52.3096559",
-    "updatedBy": "Se^'p",
-    "startDate": "2022-04-07T10:37:25.1571825",
-    "endDate": null
-  },
-  {
-    "id": 15,
-    "name": "Duoi Viec",
-    "code": "DV",
-    "description": "Duoi viec thoi",
-    "createdById": 33,
-    "createdBy": "Se^'p",
-    "createdOn": "2022-04-07T10:37:25.1571825",
-    "updatedById": 33,
-    "updatedOn": "2022-04-08T07:10:52.3096559",
-    "updatedBy": "Se^'p",
-    "startDate": "2022-04-07T10:37:25.1571825",
-    "endDate": null
-  }
-],
- "total": 4
+    {
+      "id": 12,
+      "name": "Hop Dong",
+      "code": "HD",
+      "description": "Hop dong dung de...",
+      "createdById": 33,
+      "createdBy": "Se^'p",
+      "createdOn": "2022-04-07T10:37:25.1571825",
+      "updatedById": 33,
+      "updatedOn": "2022-04-08T07:10:52.3096559",
+      "updatedBy": "Se^'p",
+      "startDate": "2022-04-07T10:37:25.1571825",
+      "endDate": null
+    },
+    {
+      "id": 13,
+      "name": "Tang Luong",
+      "code": "TL",
+      "description": "Tang luong xong roi...",
+      "createdById": 33,
+      "createdBy": "Se^'p",
+      "createdOn": "2022-04-07T10:37:25.1571825",
+      "updatedById": 33,
+      "updatedOn": "2022-04-08T07:10:52.3096559",
+      "updatedBy": "Se^'p",
+      "startDate": "2022-04-07T10:37:25.1571825",
+      "endDate": null
+    },
+    {
+      "id": 14,
+      "name": "Giam Gio` Lam",
+      "code": "GGL",
+      "description": "Giam duoc gio lam thi...",
+      "createdById": 33,
+      "createdBy": "Se^'p",
+      "createdOn": "2022-04-07T10:37:25.1571825",
+      "updatedById": 33,
+      "updatedOn": "2022-04-08T07:10:52.3096559",
+      "updatedBy": "Se^'p",
+      "startDate": "2022-04-07T10:37:25.1571825",
+      "endDate": null
+    },
+    {
+      "id": 15,
+      "name": "Duoi Viec",
+      "code": "DV",
+      "description": "Duoi viec thoi",
+      "createdById": 33,
+      "createdBy": "Se^'p",
+      "createdOn": "2022-04-07T10:37:25.1571825",
+      "updatedById": 33,
+      "updatedOn": "2022-04-08T07:10:52.3096559",
+      "updatedBy": "Se^'p",
+      "startDate": "2022-04-07T10:37:25.1571825",
+      "endDate": null
+    }
+  ]
 }
